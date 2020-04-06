@@ -1,0 +1,1383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="boot3:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e79c76c-f90a-4613-83fb-e3cf0c4e1efc" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codefei/boot1/Boot1Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codefei/boot1/common/MyTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codefei/boot1/config/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codefei/boot1/config/MyDataSourceProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codefei/boot1/sys/entity/Sysuser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codefei/boot1/sys/handler/SysuserHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codefei/boot1/sys/service/ISysuserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codefei/boot1/sys/service/SysuserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/aa.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/readme.htex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/boot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/boot2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codefei/boot1/Boot1ApplicationTests.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../boot2/target/" />
+    <ignored path="$PROJECT_DIR$/../boot3/target/" />
+    <ignored path="$PROJECT_DIR$/../boot4/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Boot2Application.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/Boot2Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginInterceptor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/config/LoginInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/config/MyConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="26" column="74" selection-start-line="26" selection-start-column="74" selection-end-line="26" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyErrorAttibutes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/config/MyErrorAttibutes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="8" column="60" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyWebConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/config/MyWebConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../boot4/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../boot4/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../boot2/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="58" column="21" lean-forward="true" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../boot2/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getWelcomePage</find>
+      <find>redis</find>
+      <find>tomcat</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/codefei/boot1/sys/handler/SysUserHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codefei/boot1/sys/service/ISysuserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codefei/boot1/sys/entity/Sysuser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codefei/boot1/sys/service/SysuserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codefei/boot1/common/MyTask.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/aa.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codefei/boot1/Boot1Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codefei/boot1/config/MyConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codefei/boot1/Boot1ApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codefei/boot1/config/MyDataSourceProperties.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/hello.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/boot.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/test.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codefei/boot1/sys/handler/SysuserHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/boot2.html" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/config/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/resources/templates/userlist.html" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/config/MyDateFormater.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Readme.txt.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/readme.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/readme.htex" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/resources/templates/error.html" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/resources/templates/error/5xx！！！.html" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/resources/templates/error/5xx.html" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/resources/templates/error/4xx.html" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/config/MyErrorAttibutes.java" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/resources/generator.xml" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/config/MyWebConfig.java" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/sys/mapper/BestvCategoryMapper.xml" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/sys/mapper/BestvCategoryMapper.java" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/sys/entity/BestvCategory.java" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/sys/handler/SysuserHandler.java" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/config/MyConfig.java" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/sys/handler/SysuserHandler2.java" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/config/MyTask.java" />
+        <option value="$PROJECT_DIR$/../boot2/pom.xml" />
+        <option value="$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/Boot2Application.java" />
+        <option value="$PROJECT_DIR$/../boot3/src/main/java/com/codefei/boot3/MyServletInit.java" />
+        <option value="$PROJECT_DIR$/../boot3/src/main/webapp/hello.jsp" />
+        <option value="$PROJECT_DIR$/../boot3/pom.xml" />
+        <option value="$PROJECT_DIR$/../boot3/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../boot3/src/main/java/com/codefei/boot3/SysuserHandler.java" />
+        <option value="$PROJECT_DIR$/../boot4/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-48" />
+    <option name="y" value="366" />
+    <option name="width" value="1386" />
+    <option name="height" value="540" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="boot1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="boot2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="boot2" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="boot2" type="462c0819:PsiDirectoryNode" />
+              <item name="sys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../boot3/src/main/webapp" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\ideaworksspace\boot2" />
+      <recent name="H:\ideaworksspace\boot2\src\main\resources" />
+      <recent name="H:\ideaworksspace\boot2\src\main\resources\templates" />
+      <recent name="H:\ideaworksspace\boot1\src\main\resources\templates" />
+      <recent name="H:\ideaworksspace\boot1\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\ideaworksspace\boot3\src\main\webapp\WEB-INF\view" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Boot1ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="boot1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codefei.boot1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.codefei.boot1" />
+      <option name="MAIN_CLASS_NAME" value="com.codefei.boot1.Boot1ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Boot3ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="boot3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codefei.boot3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.codefei.boot3" />
+      <option name="MAIN_CLASS_NAME" value="com.codefei.boot3.Boot3ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Boot1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codefei.boot1.Boot1Application" />
+    </configuration>
+    <configuration name="Boot2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codefei.boot2.Boot2Application" />
+    </configuration>
+    <configuration name="Boot3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="boot3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codefei.boot3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codefei.boot3.Boot3Application" />
+    </configuration>
+    <configuration name="Boot4Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot4" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codefei.boot4.Boot4Application" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.34" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="boot3:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_boot1" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8151" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="8152" />
+        <option name="visualVMId" value="29845718375500" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.34" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="boot3:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_boot1" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8151" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="8152" />
+        <option name="visualVMId" value="29845718375500" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="boot3:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Boot3ApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.Boot1Application" />
+      <item itemvalue="Spring Boot.Boot2Application" />
+      <item itemvalue="Tomcat Server.Unnamed" />
+      <item itemvalue="JUnit.Boot1ApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.Boot3Application" />
+      <item itemvalue="Spring Boot.Boot4Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Boot3Application" />
+        <item itemvalue="JUnit.Boot1ApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e79c76c-f90a-4613-83fb-e3cf0c4e1efc" name="Default" comment="" />
+      <created>1585724124772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585724124772</updated>
+      <workItem from="1585724129500" duration="19077000" />
+      <workItem from="1585822451381" duration="2898000" />
+      <workItem from="1585898883350" duration="197000" />
+      <workItem from="1585900457419" duration="11944000" />
+      <workItem from="1585923135175" duration="3353000" />
+      <workItem from="1585964589822" duration="14545000" />
+      <workItem from="1586096365291" duration="1124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Boot1ApplicationTests_contextLoads - 2020.04.01 at 17h 40m 48s.xml">
+      <configuration name="Boot1ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Boot1ApplicationTests_contextLoads - 2020.04.01 at 17h 41m 59s.xml">
+      <configuration name="Boot1ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Boot1ApplicationTests_contextLoads - 2020.04.01 at 17h 43m 16s.xml">
+      <configuration name="Boot1ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Boot1ApplicationTests_contextLoads - 2020.04.01 at 17h 50m 27s.xml">
+      <configuration name="Boot1ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Boot1ApplicationTests_contextLoads - 2020.04.01 at 17h 56m 29s.xml">
+      <configuration name="Boot1ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Boot3ApplicationTests_contextLoads - 2020.04.04 at 17h 08m 30s.xml">
+      <configuration name="Boot3ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Boot3ApplicationTests_contextLoads - 2020.04.04 at 17h 14m 05s.xml">
+      <configuration name="Boot3ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Boot3ApplicationTests_contextLoads - 2020.04.04 at 17h 17m 08s.xml">
+      <configuration name="Boot3ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Boot3ApplicationTests_contextLoads - 2020.04.04 at 17h 19m 43s.xml">
+      <configuration name="Boot3ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Boot3ApplicationTests_contextLoads - 2020.04.04 at 17h 20m 40s.xml">
+      <configuration name="Boot3ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="53138000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.3289689" />
+      <window_info anchor="right" id="Maven Projects" order="1" visible="true" weight="0.08774584" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3295626" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6824877" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45499182" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.16202946" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22390318" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32733223" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.24962178" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/resources/templates/userlist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.6.RELEASE/spring-boot-autoconfigure-2.2.6.RELEASE.jar!/org/springframework/boot/autoconfigure/web/servlet/error/BasicErrorController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="58" column="46" lean-forward="true" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/resources/templates/error/5xx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/resources/templates/error/4xx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.6.RELEASE/spring-boot-autoconfigure-2.2.6.RELEASE.jar!/org/springframework/boot/autoconfigure/web/servlet/error/ErrorMvcAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="92" column="30" lean-forward="true" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="86" column="24" lean-forward="true" selection-start-line="86" selection-start-column="24" selection-end-line="86" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/resources/templates/error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/resources/generator.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codefei/boot1/common/MyTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codefei/boot1/sys/handler/SysuserHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.5.RELEASE/spring-beans-5.2.5.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="1296" selection-start-line="1296" selection-end-line="1296" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.19/mysql-connector-java-8.0.19.jar!/com/mysql/cj/jdbc/exceptions/SQLError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/config/MyDateFormater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.5.RELEASE/spring-web-5.2.5.RELEASE.jar!/org/springframework/web/method/support/ModelAndViewContainer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.5.RELEASE/spring-webmvc-5.2.5.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="554" selection-start-line="554" selection-end-line="554" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.5.RELEASE/spring-webmvc-5.2.5.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.5.RELEASE/spring-web-5.2.5.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.5.RELEASE/spring-web-5.2.5.RELEASE.jar!/org/springframework/web/method/HandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3775">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.5.RELEASE/spring-core-5.2.5.RELEASE.jar!/org/springframework/util/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codefei/boot1/Boot1Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="11" column="60" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-log4j2/2.2.6.RELEASE/spring-boot-starter-log4j2-2.2.6.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.6.RELEASE/spring-boot-starter-parent-2.2.6.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="195" column="32" selection-start-line="195" selection-start-column="32" selection-end-line="195" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.codefei:boot2:0.0.1-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.codefei:boot2:0.0.1-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.codefei:boot2:0.0.1-SNAPSHOT</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.2.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.2.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot:jar:2.2.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.2.6.RELEASE/jakarta.annotation:jakarta.annotation-api:jar:1.3.5</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.2.6.RELEASE/org.yaml:snakeyaml:jar:1.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.2.6.RELEASE/org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.2.6.RELEASE/org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE/org.thymeleaf:thymeleaf:jar:3.0.11.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.2.6.RELEASE/org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE/org.thymeleaf:thymeleaf:jar:3.0.11.RELEASE/org.attoparser:attoparser:jar:2.0.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.2.6.RELEASE/org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE/org.thymeleaf:thymeleaf:jar:3.0.11.RELEASE/org.unbescape:unbescape:jar:1.1.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.2.6.RELEASE/org.thymeleaf.extras:thymeleaf-extras-java8time:jar:3.0.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j2:jar:2.2.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j2:jar:2.2.6.RELEASE/org.apache.logging.log4j:log4j-slf4j-impl:jar:2.12.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j2:jar:2.2.6.RELEASE/org.apache.logging.log4j:log4j-slf4j-impl:jar:2.12.1/org.apache.logging.log4j:log4j-api:jar:2.12.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j2:jar:2.2.6.RELEASE/org.apache.logging.log4j:log4j-core:jar:2.12.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j2:jar:2.2.6.RELEASE/org.apache.logging.log4j:log4j-jul:jar:2.12.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j2:jar:2.2.6.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.30</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.2.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.2.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.10.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.2.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.10.3/com.fasterxml.jackson.core:jackson-annotations:jar:2.10.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.2.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.10.3/com.fasterxml.jackson.core:jackson-core:jar:2.10.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.2.6.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.10.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.2.6.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.10.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.2.6.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.10.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.2.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.2.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.33</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.2.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:9.0.33</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.2.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:9.0.33</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:2.2.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:2.2.6.RELEASE/jakarta.validation:jakarta.validation-api:jar:2.0.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:2.2.6.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.18.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:2.2.6.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.18.Final/org.jboss.logging:jboss-logging:jar:3.4.1.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:2.2.6.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.18.Final/com.fasterxml:classmate:jar:1.5.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework:spring-web:jar:5.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework:spring-web:jar:5.2.5.RELEASE/org.springframework:spring-beans:jar:5.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework:spring-webmvc:jar:5.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework:spring-webmvc:jar:5.2.5.RELEASE/org.springframework:spring-aop:jar:5.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework:spring-webmvc:jar:5.2.5.RELEASE/org.springframework:spring-context:jar:5.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.2.6.RELEASE/org.springframework:spring-webmvc:jar:5.2.5.RELEASE/org.springframework:spring-expression:jar:5.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-test:jar:2.2.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.2.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.3/jakarta.activation:jakarta.activation-api:jar:1.2.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-api:jar:5.5.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-api:jar:5.5.2/org.apiguardian:apiguardian-api:jar:1.1.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-api:jar:5.5.2/org.opentest4j:opentest4j:jar:1.2.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-api:jar:5.5.2/org.junit.platform:junit-platform-commons:jar:1.5.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-params:jar:5.5.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-engine:jar:5.5.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-engine:jar:5.5.2/org.junit.platform:junit-platform-engine:jar:1.5.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.mockito:mockito-junit-jupiter:jar:3.1.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.assertj:assertj-core:jar:3.13.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.hamcrest:hamcrest:jar:2.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.mockito:mockito-core:jar:3.1.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.mockito:mockito-core:jar:3.1.0/net.bytebuddy:byte-buddy:jar:1.10.8</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.mockito:mockito-core:jar:3.1.0/net.bytebuddy:byte-buddy-agent:jar:1.10.8</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.mockito:mockito-core:jar:3.1.0/org.objenesis:objenesis:jar:2.6</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.springframework:spring-core:jar:5.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.springframework:spring-core:jar:5.2.5.RELEASE/org.springframework:spring-jcl:jar:5.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.springframework:spring-test:jar:5.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.6.RELEASE/org.xmlunit:xmlunit-core:jar:2.6.4</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.2.6.RELEASE</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.2.6.RELEASE/com.zaxxer:HikariCP:jar:3.4.2</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.2.6.RELEASE/org.springframework:spring-jdbc:jar:5.2.5.RELEASE</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.3.2</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis:mybatis:jar:3.4.6</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis:mybatis-spring:jar:1.3.2</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:8.0.19</node>
+            <node x="" y="">com.alibaba:druid-spring-boot-starter:jar:1.1.10</node>
+            <node x="" y="">com.alibaba:druid-spring-boot-starter:jar:1.1.10/com.alibaba:druid:jar:1.1.10</node>
+            <node x="" y="">com.alibaba:druid-spring-boot-starter:jar:1.1.10/org.slf4j:slf4j-api:jar:1.7.30</node>
+            <node x="" y="">com.alibaba:druid-spring-boot-starter:jar:1.1.10/org.springframework.boot:spring-boot-autoconfigure:jar:2.2.6.RELEASE</node>
+            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.5</node>
+            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.5/com.github.pagehelper:pagehelper-spring-boot-autoconfigure:jar:1.2.5</node>
+            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.5/com.github.pagehelper:pagehelper:jar:5.1.4</node>
+            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.5/com.github.pagehelper:pagehelper:jar:5.1.4/com.github.jsqlparser:jsqlparser:jar:1.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.2.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.2.6.RELEASE/org.springframework.data:spring-data-keyvalue:jar:2.2.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.2.6.RELEASE/org.springframework.data:spring-data-keyvalue:jar:2.2.6.RELEASE/org.springframework.data:spring-data-commons:jar:2.2.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.2.6.RELEASE/org.springframework:spring-tx:jar:5.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.2.6.RELEASE/org.springframework:spring-oxm:jar:5.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.2.6.RELEASE/org.springframework:spring-context-support:jar:5.2.5.RELEASE</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="6106.0" y="1055.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/sys/entity/BestvCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.2.6.RELEASE/spring-data-redis-2.2.6.RELEASE.jar!/org/springframework/data/redis/core/StringRedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.6.RELEASE/spring-boot-autoconfigure-2.2.6.RELEASE.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.2.6.RELEASE/spring-data-redis-2.2.6.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="320" column="16" selection-start-line="320" selection-start-column="16" selection-end-line="320" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/sys/mapper/BestvCategoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/sys/mapper/BestvCategoryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/sys/handler/SysuserHandler2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="26" column="70" selection-start-line="26" selection-start-column="70" selection-end-line="26" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/sys/handler/SysuserHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="68" column="29" selection-start-line="65" selection-start-column="4" selection-end-line="68" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot3/src/test/java/com/codefei/boot3/Boot3ApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot3/src/main/java/com/codefei/boot3/MyServletInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot3/src/main/java/com/codefei/boot3/Boot3Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot3/src/main/webapp/WEB-INF/view/hello.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.2.6.RELEASE/spring-boot-starter-web-2.2.6.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="59" column="38" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot3/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot3/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot3/src/main/java/com/codefei/boot3/SysuserHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot4/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="58" column="21" lean-forward="true" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/Boot2Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/config/MyTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/config/MyErrorAttibutes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="8" column="60" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/config/MyWebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot4/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/config/MyConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="26" column="74" selection-start-line="26" selection-start-column="74" selection-end-line="26" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boot2/src/main/java/com/codefei/boot2/config/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>boot1:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|boot3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
